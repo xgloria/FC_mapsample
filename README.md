@@ -9,4 +9,4 @@ sample maps with the NPMT and DPM jades
 
 #### netfliy link for the google colab cloud version https://thefccolabver.netlify.app/
 
-#### netfliy link for the fc_mapresized https://thefcmapresized.netlify.app/
+#### netfliy link for the fc_mapresized https://thefcmapresized.netlify.app/ (updated)
